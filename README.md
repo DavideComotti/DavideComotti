@@ -73,5 +73,5 @@ https://github.com/DavideComotti/Angular-distribution-of-Cosmic-Ray-Muons
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/davide-comotti-3927ba1b6   
+LinkedIn: https://www.linkedin.com/in/davide-comotti   
 Email: davidecomotti1@gmail.com  
