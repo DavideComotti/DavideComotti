@@ -6,37 +6,19 @@ This two-year program trains engineers in advanced materials, production process
 
 ## About Me
 
-I am a Mechanical Engineering undergraduate specializing in **Materials and Product Innovation**. 
-
-My academic training focuses on the complete lifecycle of engineering materials, from:
+I am a Mechanical Engineering specializing in **Materials and Product Innovation**. My studies focus on the complete lifecycle of engineering materials, from:
 
 - Production and processing  
-- Structure–property relationships  
+- Structure–property relationships, with advanced calculation of the stresses to which a given object is subjected
 - Materials selection  
 - Mechanical design  
 - Industrial product development  
 
-I combine experimental data analysis, computational modeling, and engineering design tools to bridge material science and applied engineering problems.
-
----
-
-## Featured Project
+I combine these aforementioned skills with experimental data analysis, computational modeling and Monte Carlo methods learnt from my bachelor thesis project:
 
 ### Study of the Angular Distribution of Cosmic Ray Muons
 
-Bachelor thesis project involving experimental detector data and Monte Carlo simulation.
-
-Main components of the project:
-
-- Processing of particle detector data in ROOT format
-- Data extraction using `uproot`
-- Data cleaning and timestamp-based validation
-- Merging and transformation into zenith angles (0°–90°)
-- Histogram analysis using `matplotlib`
-- Temporal stability analysis using heatmaps
-- Monte Carlo simulation using EcoMug
-- C++ integration in Python using `cppyy`
-- Experimental vs theoretical distribution comparison
+Where I compared data from the INFN detector in Legnaro with the theoretical data obtained through a parametric cosmic ray muon generator, which is based on Monte Carlo simulations.
 
 This project demonstrates:
 
@@ -47,7 +29,7 @@ This project demonstrates:
 - Statistical validation of physical models
 
 Repository:
-https://github.com/DavideComotti/cosmic-ray-muon-angular-distribution
+https://github.com/DavideComotti/Angular-distribution-of-Cosmic-Ray-Muons
 
 ---
 
@@ -72,14 +54,6 @@ https://github.com/DavideComotti/cosmic-ray-muon-angular-distribution
 - Autodesk Alias (surface modeling & product design)
 - Granta Material Selector (materials selection & property analysis)
 
-### Additional Tools
-- LaTeX (technical documentation)
-- Experimental data analysis
-- Statistical modeling
-- Scientific visualization
-
----
-
 ## Academic Focus Areas
 
 - Materials engineering and characterization
@@ -96,7 +70,6 @@ https://github.com/DavideComotti/cosmic-ray-muon-angular-distribution
 - Apply data-driven methods to engineering problems  
 - Work in R&D, materials engineering, or computational mechanics  
 
----
 
 ## Contact
 
